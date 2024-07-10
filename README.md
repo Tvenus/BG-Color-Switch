@@ -15,6 +15,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://linktr.ee/Piyush.Codes"><img src="https://avatars.githubusercontent.com/u/61281309?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Piyush Chandel</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/BG-Color-Switch/commits?author=Piyush-Codes7" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/SamikshaSankar"><img src="https://avatars.githubusercontent.com/u/52104082?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samiksha sandip sankar</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/BG-Color-Switch/commits?author=SamikshaSankar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hrshammo"><img src="https://avatars.githubusercontent.com/u/76872754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hamim Reza</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/BG-Color-Switch/commits?author=hrshammo" title="Code">💻</a></td>
+        <td align="center"><a href="https://github.com/Tvenus"><br /><sub><b>Hamim Reza</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/BG-Color-Switch/commits?author=Tvenus" title="Code">💻</a></td>
   </tr>
 </table>
 
